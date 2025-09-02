@@ -45,3 +45,27 @@ npm install
 
 # Run development server
 npm run dev
+
+
+
+---
+
+## 🌐 Live Demo
+
+👉 Coming soon...
+
+---
+
+## 👨‍💻 Author
+
+**Rajeev Kumar Saw**
+
+💼 [LinkedIn](https://linkedin.com/in/rajeev-kumar-saw)  
+
+---
+
+## 🌟 Support the Project
+
+If you like this project, don’t forget to ⭐ the repo!  
+Your stars help others discover and use this template.
+
